@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-2nd hoemework
+# GitHub
+goit-markup-hw-01
