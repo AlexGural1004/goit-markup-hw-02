@@ -18,6 +18,9 @@ body{
    letter-spacing: 0.03em;
     }
 
+    .linl{
+        letter-spacing: 0.02em;
+    }
 .logo{
     font-family: Raleway;
     font-weight: bold;
@@ -27,16 +30,25 @@ body{
     color:var(--logo-text-color);  
     }
 
+
 .logo-color{
     color: black;
     font-size: 26px;
     line-height: 1.19;
     }
 
-.link{
+.logo-color-footer{
+    color:var(--h1-color);
+    font-size: 26px;
+    line-height: 1.19;
+
+}
+
+.link:hover{
     font-style: normal;
     font-weight: 500;
     color: none;
+    letter-spacing: 0.02em;
     text-decoration: none;
     text-decoration: none; 
     color: var(--black);
@@ -50,9 +62,13 @@ body{
     }
 
 .link-mail{
-    color:var(--button-color)
+    color:var(--logo-text-color)
     }
 
+.link-tel{
+    letter-spacing: 0.02em;
+color: var(--primary-text-color);
+}
 li{
     list-style-type: none; 
    }
@@ -79,6 +95,7 @@ h3{
     font-weight: bold;
     font-size: 14px;
     line-height: 1.14;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color:var(--black)
     }
@@ -107,6 +124,7 @@ h4{
     font-family: inherit;
     background: #2196F3;
     font-weight: bold;
+    letter-spacing: 0.06em;
     font-size: 16px;
     line-height: 1.87;
     color:var(--h1-color)
