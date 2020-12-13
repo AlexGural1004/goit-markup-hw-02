@@ -120,7 +120,7 @@ h4{
     background-color: var(--background-hero);    
     }
 
-.button-blue{
+.button-blue:hover{
     font-family: inherit;
     background: #2196F3;
     font-weight: bold;
