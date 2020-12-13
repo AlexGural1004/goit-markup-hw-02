@@ -62,13 +62,13 @@ body{
     }
 
 .link-mail{
-    color:var(--logo-text-color)
+    color:var(--logo-text-color);
     }
 
 .link-tel{
     letter-spacing: 0.02em;
-color: var(--primary-text-color);
-}
+    color: var(--primary-text-color);
+    }
 li{
     list-style-type: none; 
    }
@@ -97,14 +97,14 @@ h3{
     line-height: 1.14;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color:var(--black)
+    color:var(--black);
     }
 
 h4{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
-    color:var(--black)
+    color:var(--black);
     }
 
 .section-benefits-text{
@@ -127,7 +127,7 @@ h4{
     letter-spacing: 0.06em;
     font-size: 16px;
     line-height: 1.87;
-    color:var(--h1-color)
+    color:var(--h1-color);
     }
 
 .section-our-team-text{
@@ -155,7 +155,7 @@ a{
     }
 
 .hidden-header{
-    color:var(--background-color)
+    color:var(--background-color);
     }
 
 .button-all{
@@ -163,8 +163,7 @@ a{
     font-size: 16px;
     line-height: 1.63;
     background: #2196F3;
-    color:var(--h1-color)
-
+    color:var(--h1-color);
     }
 
 .button-standart:hover
@@ -180,7 +179,7 @@ a{
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
-    color:var(--black)
+    color:var(--black);
 }
 .portfolio-text{
     font-size: 16px;
